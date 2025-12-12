@@ -79,6 +79,20 @@ The objective is to identify locations with high potential and low competitive p
 - Machine Learning fundamentals  
 
 ---
+## 📁 Repository Naming Convention
+
+All project repositories follow a clear and consistent naming convention to ensure readability and scalability across the portfolio.
+
+**Format used:**
+domain-topic-method
+
+**Examples:**
+- `watch-market-price-regression`
+- `product-bundle-optimization-analysis`
+- `retail-location-geospatial-analysis`
+
+This structure makes each project immediately understandable in terms of its domain, objective, and analytical approach.
+
 
 ## 🎯 Purpose
 
